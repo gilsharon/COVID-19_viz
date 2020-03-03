@@ -16,11 +16,11 @@ All Python 3 based - pandas, numpy, geopandas, imageio.
     
 Findings so far are pretty scarry.. 
 
-*bold* Cumulative cases by country by date (you can guess which is China) 
+** Cumulative cases by country by date (you can guess which is China) **
 ![Cumulative Cases](/figures/forReadme/cumulativeCases.jpg)
 
-*bold* Cumulative countries wish at least one novel case by date
+** Cumulative countries wish at least one novel case by date**
 ![Cumulative Countries](/figures/forReadme/cumulativeCountries.jpg)
 
-*bold* Cases by country on map. 
+** Cases by country on map. **
 ![Case by Map](/figures/forReadme/worldMap_2020-03-03_optimized.gif)
