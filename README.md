@@ -4,7 +4,7 @@
 This is an exercise in plotting data on a map and , hopefully, will add some modeling future trajectories based on the data and compared to China. 
 
 Source of data: the [Humanitarian Data Exchange](http://data.humdata.org). 
-Inspiration for this repo is based on the [Johns Hopkins CSEE visualization] (https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases#metadata-0)
+Inspiration for this repo is based on the [Johns Hopkins CSEE visualization](https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases#metadata-0)
 
 All Python 3 based - pandas, numpy, geopandas, imageio.  
 
