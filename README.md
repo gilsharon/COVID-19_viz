@@ -1,7 +1,7 @@
-# COVID-19_viz
 
 ## Visualizing COVID-19 cases data (1/22/20 - 3/4/20)
 This is an exercise in plotting data on a map and , hopefully, will add some modeling future trajectories based on the data and compared to China. 
+
 *updating this repo every couple of days*
 
 Source of data: the [Humanitarian Data Exchange](http://data.humdata.org). 
