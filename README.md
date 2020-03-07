@@ -1,5 +1,5 @@
 
-## Visualizing COVID-19 cases data (1/22/20 - 3/6/20)
+## Visualizing COVID-19 cases data (1/22/20 - 3/7/20)
 This is an exercise in plotting data on a map and , hopefully, will add some modeling future trajectories based on the data and compared to China. 
 
 *updating this repo every couple of days*
@@ -24,4 +24,4 @@ Findings so far are pretty scarry..
 ![Cumulative Countries](/figures/forReadme/cumulativeCountries.jpg)
 
 **Cases by country on map.**
-![Case by Map](/figures/forReadme/worldMap_2020-03-06_optimized.gif)
+![Case by Map](/figures/forReadme/worldMap_2020-03-07_optimized.gif)
