@@ -25,4 +25,4 @@ Findings so far are pretty scarry..
 ![Cumulative Countries](/figures/forReadme/cumulativeCountries.jpg)
 
 **Cases by country on map.**
-![Case by Map](/figures/worldMap_2020-03-07.mp4)
+![Case by Map](/figures/forReadme/worldMap_2020-03-07.png)
