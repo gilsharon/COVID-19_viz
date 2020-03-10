@@ -1,6 +1,8 @@
 # ignore these
+*.zip
 figures/*.jpg
 figures/*.png
 figures/*.gif
+figures/*.mp4
 data/ne_110m_admin_0_countries/*.*
 .ipynb_checkpoints/
