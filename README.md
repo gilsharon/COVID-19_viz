@@ -16,6 +16,7 @@ All Python 3 based - pandas, numpy, geopandas, imageio.
     * ~~add country names to lineplots~~
     * ~~change case number annotations to color~~
     * ~~US specific maps~~
+    * ~~Dont disply animations on Readme.MD (still in figures)~~ 
     
 Findings so far are pretty scarry.. 
 **Cases in the US on map.**
@@ -25,7 +26,7 @@ Findings so far are pretty scarry..
 ![Case by Map](/figures/forReadme/USMap_mortalities_3-9-20.png)
 
 **Cases by country on map.**
-![Case by Map](/figures/forReadme/worldMap_2020-03-10.png)
+![Case by Map](/figures/forReadme/worldMap_2020-03-09.png)
 
 **Cumulative cases by country by date**
 ![Cumulative Cases](/figures/forReadme/cumulativeCases.jpg)
