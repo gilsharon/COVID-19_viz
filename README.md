@@ -17,6 +17,7 @@ All Python 3 based - pandas, numpy, geopandas, imageio.
     * ~~change case number annotations to color~~
     * ~~US specific maps~~
     * ~~Dont disply animations on Readme.MD (still in figures)~~ 
+    * ~~Cumulative cases in log scale~~
     
 Findings so far are pretty scarry.. 
 **Cases in the US on map.**
@@ -29,7 +30,7 @@ Findings so far are pretty scarry..
 ![Case by Map](/figures/forReadme/worldMap_2020-03-09.png)
 
 **Cumulative cases by country by date**
-![Cumulative Cases](/figures/forReadme/cumulativeCases.jpg)
+![Cumulative Cases](/figures/forReadme/cumulativeCases_logScale.jpg)
 
 **Total cumulative cases and countries with at least one novel case by date**
 ![Cumulative Countries](/figures/forReadme/cumulativeCountries.jpg)
