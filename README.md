@@ -22,6 +22,7 @@ All Python 3 based - pandas, numpy, geopandas, imageio.
     * report cases by % of population
     
 Findings so far are pretty scarry.. 
+
 **Cases in the US on map.**
 ![Case by Map](/figures/forReadme/USMap_2020-03-10.png)
 [Animation](/figures/forReadme/USMap_2020-03-10.mp4)
