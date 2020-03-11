@@ -18,13 +18,16 @@ All Python 3 based - pandas, numpy, geopandas, imageio.
     * ~~US specific maps~~
     * ~~Dont disply animations on Readme.MD (still in figures)~~ 
     * ~~Cumulative cases in log scale~~
+    * ~~on 3/11/20 the way data is reported for the US changed. Switched to a another set of tables from humdata where data seem to have been cleaned up a bit~~
+    * report cases by % of population
     
 Findings so far are pretty scarry.. 
 **Cases in the US on map.**
-![Case by Map](/figures/forReadme/USMap_3-10-20.png)
+![Case by Map](/figures/forReadme/USMap_2020-03-10.png)
+[Animation](/figures/forReadme/USMap_2020-03-10.mp4)
 
 **Mortalities in the US on map.**
-![Case by Map](/figures/forReadme/USMap_mortalities_3-10-20.png)
+![Case by Map](/figures/forReadme/USMap_Mortalities_2020-03-10.png)
 
 **Cases by country on map.**
 ![Case by Map](/figures/forReadme/worldMap_2020-03-10.png)
