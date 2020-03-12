@@ -20,18 +20,21 @@ All Python 3 based - pandas, numpy, geopandas, imageio.
     * ~~Cumulative cases in log scale~~
     * ~~on 3/11/20 the way data is reported for the US changed. Switched to a another set of tables from humdata where data seem to have been cleaned up a bit~~
     * report cases by % of population
+    * doubling time
+    * time from first case to first death and first recovery by country
+    
+    
     
 Findings so far are pretty scarry.. 
 
 **Cases in the US on map.**
-![Case by Map](/figures/forReadme/USMap_2020-03-10.png)
-[Animation](/figures/forReadme/USMap_2020-03-10.mp4)
+![Case by Map](/figures/forReadme/USMap.png)
 
 **Mortalities in the US on map.**
-![Case by Map](/figures/forReadme/USMap_Mortalities_2020-03-10.png)
+![Case by Map](/figures/forReadme/USMap_Mortalities.png)
 
 **Cases by country on map.**
-![Case by Map](/figures/forReadme/worldMap_2020-03-10.png)
+![Case by Map](/figures/forReadme/worldMap.png)
 
 **Cumulative cases by country by date**
 ![Cumulative Cases](/figures/forReadme/cumulativeCases_logScale.jpg)
